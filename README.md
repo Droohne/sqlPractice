@@ -1,2 +1,2 @@
 # sqlPractice
-Solving exercises from sql-ex.com
+Solving exercises from sql-ex.com with MSSQL
